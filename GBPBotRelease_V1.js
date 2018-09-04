@@ -90,7 +90,7 @@ client.on('message', message => {
 
 });
 
-client.login('NDg1OTcxMTcxMDkxOTM5MzI4.Dm7vQA.bfLXW36OqsgSsINod_QbV4Q594E')
+client.login('CHANGE THIS TO YOUR BOT TOKEN')
 
 //COMMANDS:
 //they all start with the prefix, ~ by default
