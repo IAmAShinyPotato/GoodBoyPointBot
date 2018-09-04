@@ -97,3 +97,5 @@ client.login('CHANGE THIS TO YOUR BOT TOKEN')
 //addmoney (amount, can be negative) (person) - if nobody is defined, it gives it to yourself
 //balance - shows the moneiz
 //money -does the same thing as balance
+
+//if you need help with anything, i'll probably be of no use
